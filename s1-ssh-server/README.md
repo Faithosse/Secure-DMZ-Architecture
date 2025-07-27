@@ -32,11 +32,11 @@ Configure S1 as a frontline SSH server with RSA 4096-bit public-key authenticati
 - `images/*`: Screenshots of setup and testing.
 
 ## Screenshots
-- Static IP Configuration:![Static IP](s1-ssh-server/Static-ip-S1.png)
-- SSH Installation: ![SSH Install](s1-ssh-server/ssh-install-s1.png)
-- SSH Configuration: ![SSH Config](s1-ssh-server/ssh-config-s1.png)
-- Key Generation: ![Key Gen](s1-ssh-server/key-gen-admin.png)
-- Shared Folder: ![Shared Folder](s1-ssh-server/shared-folder.png)
-- Authorized Keys: ![Authorized Keys](s1-ssh-server/authorized-keys-creation.png)
-- SSH Connection Test: ![Connection Test](s1-ssh-server/ssh-connection-test.png)
-- Restricted Access Test: ![Restricted Access](s1-ssh-server/restricted-access-test.png)
+- Static IP Configuration:![Static IP](Static-ip-S1.png)
+- SSH Installation: ![SSH Install](ssh-install-s1.png)
+- SSH Configuration: ![SSH Config](ssh-config-s1.png)
+- Key Generation: ![Key Gen](key-gen-admin.png)
+- Shared Folder: ![Shared Folder](shared-folder.png)
+- Authorized Keys: ![Authorized Keys](authorized-keys-creation.png)
+- SSH Connection Test: ![Connection Test](ssh-connection-test.png)
+- Restricted Access Test: ![Restricted Access](restricted-access-test.png)
