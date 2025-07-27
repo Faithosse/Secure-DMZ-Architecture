@@ -1,0 +1,5 @@
+# Relevant SSH configuration for S1
+PermitRootLogin no
+PubkeyAuthentication yes
+PasswordAuthentication no
+AllowUsers admin
