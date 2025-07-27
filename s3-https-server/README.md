@@ -34,4 +34,3 @@ Configure S3 as a secure HTTPS server with a self-signed SSL/TLS certificate, en
 - Apache test: ![Apache test](apache-test-s3.png)
 - HTTPS Test: ![HTTPS Test](test-https-s3.png)
 - Authentication Test: ![Auth Https Test](confirm-https-s3.png)
-- Apache verify: ![Apache verify](apache-verify-s3).
