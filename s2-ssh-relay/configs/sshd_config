@@ -1,0 +1,5 @@
+# Relevant SSH configuration for S2
+PermitRootLogin no
+PubkeyAuthentication yes
+PasswordAuthentication no
+AllowUsers edge server
