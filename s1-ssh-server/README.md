@@ -32,7 +32,7 @@ Configure S1 as a frontline SSH server with RSA 4096-bit public-key authenticati
 - `images/*`: Screenshots of setup and testing.
 
 ## Screenshots
-- Static IP Configuration: ![Static IP](images/static-ip-s1.png)
+- Static IP Configuration: ![Static IP](images/static-ip-S1.png)
 - SSH Installation: ![SSH Install](images/ssh-install-s1.png)
 - SSH Configuration: ![SSH Config](images/ssh-config-s1.png)
 - Key Generation: ![Key Gen](images/key-gen-admin.png)
