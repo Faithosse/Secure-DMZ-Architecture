@@ -1,0 +1,13 @@
+# Ignore private keys and sensitive files
+*.key
+*.pem
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore original coursework document
+coursework.docx
+
+# Ignore system-specific files
+.DS_Store
