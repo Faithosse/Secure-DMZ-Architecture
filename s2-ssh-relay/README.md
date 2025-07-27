@@ -35,7 +35,6 @@ Deploy S2 as a secure SSH relay to mediate communication between S1 and S3, usin
 ## Screenshots
 - Static IP Configuration: ![Static IP](static-ip-s2.png)
 - SSH Installation: ![SSH Install](ssh-install-s2.png)
-- SSH Configuration: ![SSH Config](ssh-config-s2.png)
 - Firewall S1: ![Firewall S1](firewall-s1.png)
 - Firewall S3: ![Firewall S3](firewall-s3.png)
 - User Edge: ![User Edge](user-edge.png)
