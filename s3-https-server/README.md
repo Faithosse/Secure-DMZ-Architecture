@@ -27,10 +27,11 @@ Configure S3 as a secure HTTPS server with a self-signed SSL/TLS certificate, en
 - `images/*`: Screenshots of setup and testing.
 
 ## Screenshots
-- Static IP Configuration: ![Static IP](images/static-ip-s3.png)
-- Apache Installation: ![Apache Install](images/apache-install-s3.png)
-- SSL Generation: ![SSL Gen](images/ssl-gen-s3.png)
-- SSL Configuration: ![SSL Config](images/ssl-config-s3.png)
-- .htaccess: ![htaccess](images/htaccess-s3.png)
-- HTTPS Test: ![HTTPS Test](images/https-test-s3.png)
-- Authentication Test: ![Auth Test](images/auth-test-s3.png)
+- Static IP Configuration: ![Static IP](static-ip-s3.png)
+- Apache Installation: ![Apache Install](apache-install-s3.png)
+- SSL Generation: ![SSL Gen](privatekey-gen-s3.png)
+- CSR Configuration: ![CSR Config](csr-sign-s3.png)
+- Apache test: ![Apache test](apache-test-s3.png)
+- HTTPS Test: ![HTTPS Test](test-https-s3.png)
+- Authentication Test: ![Auth Https Test](confirm-https-s3.png)
+- Apache verify: ![Apache verify](apache-verify-s3).
